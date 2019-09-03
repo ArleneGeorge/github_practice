@@ -25,5 +25,12 @@ this is still on local machine
 push - command  git push origin master
 pushes all code on local to  the origin
 
+origin can be called something else on later pushes
+
 to know what remote repositories are connected use git remote -v
 customary to call the first one origin
+
+git init initialize as a git repository
+
+on git hub create repository 
+
